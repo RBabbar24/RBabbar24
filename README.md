@@ -1,7 +1,7 @@
 - 👋 Hi, I am Rajeshwar Babbar @RBabbar24
 - I am interested in Full Stack Development
 - I am currently studying in M.Sc.(IT)
-- I am looking for an internship in software development
+- I am looking to become a full stack web developer
 - I can be reached on rajbabbar1999@gmail.com
 
 <!---
